@@ -1,5 +1,6 @@
 import pickle
 import difflib
+from sklearn.linear_model import LogisticRegression
 
 def recommend(movie_title, top_n=5):
     # Load data internally
