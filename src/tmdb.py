@@ -1,4 +1,5 @@
 import requests
+import os
 
 API_KEY = "05da4598f508ce0195003479912d9bd6"
 BASE_URL = "https://api.themoviedb.org/3"
