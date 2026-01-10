@@ -1,7 +1,7 @@
 import requests
 import os
 
-API_KEY = "05da4598f508ce0195003479912d9bd6"
+API_KEY = "AMDB_API_KEY"
 BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 
