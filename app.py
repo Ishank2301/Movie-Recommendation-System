@@ -23,7 +23,7 @@ st.markdown(
     """
     <h1 style='text-align: center;'>🎬 Movie Recommender System</h1>
     <p style='text-align: center; color: gray;'>
-        Content-Based Recommendation using TMDB dataset
+        Content-Based Recommendation.
     </p>
     """,
     unsafe_allow_html=True,
