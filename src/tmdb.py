@@ -1,12 +1,7 @@
 import requests
 import os
-from  dotenv import load_dotenv
 
-
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
-
-
+API_KEY = "05da4598f508ce0195003479912d9bd6"
 BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 
