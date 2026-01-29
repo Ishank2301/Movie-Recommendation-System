@@ -15,7 +15,7 @@ def fetch_poster(movie_title):
 
     response = requests.get(url, params=params).json()
     results = response.get("results")
-
+# Return Response as Pairs
     if results and results[0].get("poster_path"):
         return IMAGE_BASE + results[0]["poster_path"]
 
