@@ -33,3 +33,5 @@ def recommend(movie_title, top_n=5):
     for i in movie_list
 ]
 
+# Improvise the recommender syatem and Add new datacollection template
+
